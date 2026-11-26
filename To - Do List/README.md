@@ -50,16 +50,23 @@ python todo.py
 ```
 
 ## 7. Application Menu
-
-```text
 ===== TO-DO LIST =====
-
 1. Add Task
 2. View Tasks
 3. Remove Task
 4. Exit
-```
 
+Enter your choice: 1
+Enter your task: Study Python
+Task added successfully!
+
+Enter your choice: 2
+
+Your To-Do List:
+1. Study Python
+
+Enter your choice: 4
+Thank you for using To-Do List!
 ## 8. Concepts Used
 - Python Lists
 - User Input and Output
@@ -70,5 +77,12 @@ python todo.py
 - Exception Handling
 - File Handling
 
-## 9. Conclusion
+## 9. Future Enhancements
+- Add task deadlines.
+- Add task priority levels.
+- Create a graphical user interface (GUI).
+- Allow users to mark tasks as completed.
+  
+## 10. Conclusion
 This project helped me understand the fundamentals of Python programming by developing a practical task management application. It demonstrates how lists, functions, loops, and file handling can be used to build a useful real-world application.
+
